@@ -77,6 +77,8 @@ half subractor
 ![r3](https://user-images.githubusercontent.com/94957766/166887895-2a92e30d-216f-4765-8631-ac27664cb0d1.png
 full subractor
 ![r4](https://user-images.githubusercontent.com/94957766/166887946-2c42c336-0c03-4128-a3f0-008ed4f01098.png)
+![image](https://user-images.githubusercontent.com/94957766/166888914-8a7471c4-4cc9-438a-9fa3-8ece10a875ee.png)
+
 
 
 
