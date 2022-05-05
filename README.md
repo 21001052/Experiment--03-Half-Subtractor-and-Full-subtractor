@@ -71,22 +71,37 @@ endmodule
 
 ## Output:
 
-![r1](https://user-images.githubusercontent.com/94957766/166887864-64f8d761-10c8-4091-b63c-d935ba2a8407.png)
-![r2](https://user-images.githubusercontent.com/94957766/166887883-87b5947c-7c53-43b6-8339-310b53061f98.png)
-half subractor
-![r3](https://user-images.githubusercontent.com/94957766/166887895-2a92e30d-216f-4765-8631-ac27664cb0d1.png
-full subractor
-![r4](https://user-images.githubusercontent.com/94957766/166887946-2c42c336-0c03-4128-a3f0-008ed4f01098.png)
-![image](https://user-images.githubusercontent.com/94957766/166888914-8a7471c4-4cc9-438a-9fa3-8ece10a875ee.png)
+![image](https://user-images.githubusercontent.com/94957766/166889134-15fa3148-d837-453b-ac53-b0bf2e042f98.png)
+
+Half subtractor
+
+![image](https://user-images.githubusercontent.com/94957766/166889256-61da7be8-867f-4f41-95c3-e5ecc0a598a7.png)
+
+
+Full subtractor
+
+![image](https://user-images.githubusercontent.com/94957766/166889429-f40ab63a-5151-4077-9f5f-43832888074b.png)
+
+
+Timing diagram:
+
+HALF SUBTRATOR
+
+![image](https://user-images.githubusercontent.com/94957766/166889553-24331b7d-8d73-4f43-aa61-c75fa2f32c68.png)
+
+
+
+Full subtractor
+
+![image](https://user-images.githubusercontent.com/94957766/166889726-94e2b7bb-3b27-4e33-ad2d-a2d42f94ae7e.png)
+
+
+Result:
+Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software
 
 
 
 
-## Timing diagram 
-half subractor
-![r5](https://user-images.githubusercontent.com/94957766/166887964-0a1878a0-5563-4e97-938b-5f5f18259b46.png)
-full subractor
-![r6](https://user-images.githubusercontent.com/94957766/166887981-4ac8251c-5748-4894-821b-bb16bbcc0eea.png)
 
 
 
