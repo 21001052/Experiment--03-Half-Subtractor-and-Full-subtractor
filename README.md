@@ -67,7 +67,8 @@ xor(diff,q,c);
 and(s,a,b);
 and(t,q,cn);
 or(borrow,s,t);
-endmodule 
+endmodule
+```
 
 ## Output:
 
