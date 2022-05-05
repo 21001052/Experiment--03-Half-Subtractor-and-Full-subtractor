@@ -73,18 +73,18 @@ endmodule
 ![](r1.png)
 ![](r2.png)
 
-##HALFSUBRACTOR:
+##HALFSUBRACTOR
 ![](r3.png)
 
-##FULLSUBRACTOR:
+##FULLSUBRACTOR
 ![](r4.png)
 
 
 
 ## Timing diagram 
-##HALFSUBRACTOR:
+##HALFSUBRACTOR
 ![](r5.png)
-##FULLSUBRACTOR:
+##FULLSUBRACTOR
 ![](r6.png)
 
 ## Result:
