@@ -72,20 +72,21 @@ endmodule
 ## Output:
 ![](r1.png)
 ![](r2.png)
-
-## HALFSUBRACTOR
+## halfsubractor
 ![](r3.png)
-
-## FULLSUBRACTOR
+## fullsubractor
 ![](r4.png)
 
 
 
+
 ## Timing diagram 
-## HALFSUBRACTOR
+## halfsubractor
 ![](r5.png)
-## FULLSUBRACTOR
+## fullsubractor
 ![](r6.png)
+
+
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
