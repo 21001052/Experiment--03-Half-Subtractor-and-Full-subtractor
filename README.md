@@ -97,8 +97,6 @@ Full subtractor
 ![image](https://user-images.githubusercontent.com/94957766/166889726-94e2b7bb-3b27-4e33-ad2d-a2d42f94ae7e.png)
 
 
-Result:
-Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software
 
 
 
