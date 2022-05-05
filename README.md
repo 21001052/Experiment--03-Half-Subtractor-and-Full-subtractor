@@ -72,19 +72,16 @@ endmodule
 ## Output:
 ![](r1.png)
 ![](r2.png)
-## halfsubractor
 ![](r3.png)
-## fullsubractor
 ![](r4.png)
 
 
 
 
 ## Timing diagram 
-## halfsubractor
 ![](r5.png)
-## fullsubractor
 ![](r6.png)
+
 
 
 
